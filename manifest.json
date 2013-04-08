@@ -1,0 +1,13 @@
+{
+  "name": "HTML5 Form validation remover",
+  "version": "1.0",
+  "background": { "scripts": ["remove_validation.js"] },
+  "permissions": [
+    "http://*/*"
+  ],
+  "browser_action": {
+    "name": "Remove HTML5 Form validation",
+    "default_icon": "icon.png"
+  },
+  "manifest_version": 2
+}
