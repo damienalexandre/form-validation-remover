@@ -3,7 +3,7 @@
   "version": "1.2",
   "homepage_url": "https://github.com/damienalexandre/form-validation-remover",
   "permissions": [
-    "*://*/*"
+    "<all_urls>"
   ],
   "browser_action": {
     "name": "Remove HTML5 Form validation errors",
