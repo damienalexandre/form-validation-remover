@@ -1,5 +1,4 @@
-
-let activeBadgeText = "ON";
+var activeBadgeText = "ON";
 
 chrome.browserAction.onClicked.addListener(function(tab) {
   // State is stored in the Badge because...

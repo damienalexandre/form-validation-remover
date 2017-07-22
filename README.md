@@ -6,7 +6,7 @@ Simple extension to **remove HTML5 Form constraints**, allowing you to submit an
 
 This extension add a `novalidate` attribute on all the forms of the current page, even the ones loaded via AJAX.
 
-The public of this extension is mainly developers whishing to test their backend form validation from a modern browser.
+The public of this extension is mainly developers wishing to test their backend form validation from a modern browser.
 
 ## Changelog
 
@@ -26,5 +26,5 @@ The public of this extension is mainly developers whishing to test their backend
 
 ## How to release
 
-- `git archive`
+- `git archive -o latest.zip HEAD`
 - https://chrome.google.com/webstore/developer/dashboard
