@@ -10,7 +10,7 @@ The public of this extension is mainly developers wishing to test their backend 
 
 ## Download and install from the Chrome Web Store
 
-[![](meta\chrome_web_store_logo.png)](https://chrome.google.com/webstore/detail/html5-form-validation-rem/dcpagcgkpeflhhampddilklcnjdjlmlb)
+[![](meta\chrome.png)](https://chrome.google.com/webstore/detail/html5-form-validation-rem/dcpagcgkpeflhhampddilklcnjdjlmlb)
 
 ## Changelog
 
