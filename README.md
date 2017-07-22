@@ -8,6 +8,10 @@ This extension add a `novalidate` attribute on all the forms of the current page
 
 The public of this extension is mainly developers wishing to test their backend form validation from a modern browser.
 
+## Download and install from the Chrome Web Store
+
+[![](meta\chrome_web_store_logo.png)](https://chrome.google.com/webstore/detail/html5-form-validation-rem/dcpagcgkpeflhhampddilklcnjdjlmlb)
+
 ## Changelog
 
 ### Version 2: July 2017
